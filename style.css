@@ -48,7 +48,7 @@ img {
     cursor: hand;
 }
 img:hover {
-        width: 350px;
+    width: 350px;
 }
 
 a {
@@ -65,4 +65,10 @@ footer {
 
 .image {
     width: 75px;
+}
+
+h3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
 }
