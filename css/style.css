@@ -1,0 +1,77 @@
+
+
+/*# sourceMappingURL=style.css.map */
+header {
+    padding: 30px;
+    margin: 0px;
+    background-color: #728f9d;
+    border-bottom: 5px solid black;
+    font-size: x-large;
+    color: black;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+
+section {
+    padding-top: 30px;
+    padding-bottom: 35px;
+    background-color: #cfd8dd;
+}
+
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: large;
+    text-align: justify;
+    padding-top: 0px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 10px;
+    border-bottom: 2.5px solid black;
+}
+
+.border-bottom {
+    border: none;
+}
+
+.title {
+    padding-bottom: 30px;
+    text-align: center;
+    font-style: oblique;
+    font-weight: bold;
+    font-size: xx-large;
+    font-family: "BlinkMacSystemFont", "Segoe UI", "Roboto, Oxygen, Ubuntu, Cantarell", "Open Sans", "Helvetica Neue", sans-serif;
+    color: black;
+}
+img {
+    width: 300px;
+    transition: width 0.5s;
+    cursor: hand;
+}
+img:hover {
+    width: 350px;
+}
+
+a {
+    color: black;
+    font-size: x-large;
+}
+
+footer {
+    padding: 30px;
+    margin: 0px;
+    background-color: #728f9d;
+    border-top: 5px solid black;
+}
+
+.image {
+    width: 75px;
+}
+
+h3 {
+    display: flex;
+    justify-content: flex-start;
+    align-items:center;
+}
